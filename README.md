@@ -1,6 +1,6 @@
-# Image Captioning with BLIP
+# Image Describer
 
-Welcome to the **Image Captioning with BLIP** project, a Python-based application that generates descriptive captions for images using the BLIP (Bootstrapping Language-Image Pre-training) model from Salesforce. This project leverages a Gradio interface to provide an interactive web-based tool for uploading images and receiving captions, making it accessible and user-friendly for exploring vision-language models.
+Welcome to the **Image Describer** project, a Python-based application that generates descriptive captions for images using the BLIP (Bootstrapping Language-Image Pre-training) model from Salesforce. This project leverages a Gradio interface to provide an interactive web-based tool for uploading images and receiving captions, making it accessible and user-friendly for exploring vision-language models.
 
 ## Table of Contents
 - [Features](#features)
