@@ -2,6 +2,8 @@
 
 Welcome to the **Image Describer** project, a Python-based application that generates descriptive captions for images using the BLIP (Bootstrapping Language-Image Pre-training) model from Salesforce. This project leverages a Gradio interface to provide an interactive web-based tool for uploading images and receiving captions, making it accessible and user-friendly for exploring vision-language models.
 
+[Visit Live Project](https://colab.research.google.com/drive/1AGvvQC0TBSnQkvQiWDxszqJksA9dplla?usp=sharing)
+
 ## Table of Contents
 - [Features](#features)
 - [Installation](#installation)
