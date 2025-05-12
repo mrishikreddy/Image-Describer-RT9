@@ -17,7 +17,7 @@ Welcome to the **Image Describer** project, a Python-based application that gene
 - Built with Python libraries: Gradio, Transformers, and PIL for seamless image processing and model integration.
 
 ## Installation
-To set up the **Image Captioning with BLIP** project, follow these steps:
+To set up the **Image Describer** project, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
